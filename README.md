@@ -1,3 +1,3 @@
 # my-website
 
-This wensite is basically an design for Electronic E-commerce purpose and electronic appliances.
+This website is basically design for Electronic E-commerce purpose and electronic appliances.
