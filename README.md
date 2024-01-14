@@ -1,2 +1,3 @@
 # my-website
-this is my 1st website
+
+This wensite is basically an design for Electronic E-commerce purpose and electronic appliances.
